@@ -15,13 +15,19 @@
 
      전 버전 설명입니다.
     https://github.com/infott2t/Auto_writting_JavaCode_makeSwing2  : 글자크기를 키워서 다시만듬.
-    https://github.com/infott2t/Auto_writting_JavaCode_makeSwing   : 초기버젼.
+    https://github.com/infott2t/Auto_writting_JavaCode_makeSwing   : 초기버젼. - 책을 참조해보세요. 
 </p>
 <br/>
 <h4>실행 방법</h4>
 <p> 여기를 참조해보세요. <a href="https://blog.naver.com/tt2t2am1118/222823741903">https://blog.naver.com/tt2t2am1118/222823741903</a></p>
 <br/>
 <h4> 사용 설명</h4>
+<p>스프링부트 jpa 관련, 중복코드를 자동으로 생성해줌니다. </p>
+<br/>
+ <p> '스프링 부트와 AWS로 혼자 구현하는 웹서비스' 이 책의 코드와 다르지 않게 작성이 되어있기 때문에, 해당 책을 한번 공부하시고, 이 자동화 코드를 사용하는 것을 권장하네요.</p>
+<br/>
+ <p> 해당 책의 정보 입니다. 링크를 참조해보세요. <a href="https://g.co/kgs/RtS4xV ">https://g.co/kgs/RtS4xV</a>  </p>
+<br/>
 <p>테이블이름은 소문자로 해주세요. vari1은 id입니다. long형으로 만드셔야합니다. 테이블명으로 적는 것을 추천드림니다. </p>
 <img width="571" alt="cap01" src="https://user-images.githubusercontent.com/25080178/157581014-2b018b74-c147-4982-804d-287d9961ace8.PNG">
 <p>실제 사용할 때에 위의 null인 변수들은 제거를 해주어야합니다. 적절한 코드수정이 필요하군요.</p>
