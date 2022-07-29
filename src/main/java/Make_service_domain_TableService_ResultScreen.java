@@ -235,7 +235,7 @@ public class Make_service_domain_TableService_ResultScreen extends JFrame {
 
         // 1. 파일 객체 생성
         try {
-            File file = new File("C:\\category\\" +reCodeTN_LFUC  +"ResponseDto.java");
+            File file = new File("C:\\category\\" +reCodeTN_LFUC  +"Service.java");
             // 2. 파일 존재여부 체크 및 생성
             if (!file.exists()) {
                 file.createNewFile();
