@@ -25,13 +25,13 @@ Make_domain_table_ResultScreen extends JFrame {
                                           String resultValueStringAndLong1, String resultValueStringAndLong2, String resultValueStringAndLong3, String resultValueStringAndLong4, String resultValueStringAndLong5, String resultValueStringAndLong6, String resultValueStringAndLong7, String resultValueStringAndLong8, String resultValueStringAndLong9, String resultValueStringAndLong10, String resultValueStringAndLong11, String resultValueStringAndLong12, String resultValueStringAndLong13, String resultValueStringAndLong14, String resultValueStringAndLong15, String resultValueStringAndLong16, String resultValueStringAndLong17, String resultValueStringAndLong18, String resultValueStringAndLong19, String resultValueStringAndLong20, String resultValueStringAndLong21, String resultValueStringAndLong22, String resultValueStringAndLong23, String resultValueStringAndLong24, String resultValueStringAndLong25, String resultValueStringAndLong26, String resultValueStringAndLong27, String resultValueStringAndLong28, String resultValueStringAndLong29, String resultValueStringAndLong30) {
         jp = new JPanel();
         jl = new JLabel("Rally: Table Name, "+ tableName );
-        jl.setFont(new Font("", Font.PLAIN, 20));
+        jl.setFont(new Font("", Font.PLAIN, 15));
         jtf = new JTextField(31);
-        jtf.setFont(new Font("", Font.PLAIN,20));
+        jtf.setFont(new Font("", Font.PLAIN,15));
         btn = new JButton("enter");
-        btn.setFont(new Font("", Font.PLAIN,20));
+        btn.setFont(new Font("", Font.PLAIN,15));
         jta = new JTextArea(20,50);
-        jta.setFont(new Font("", Font.PLAIN,20));
+        jta.setFont(new Font("", Font.PLAIN,15));
         scrolljta = new JScrollPane(jta);
 
         jp.add(jl);

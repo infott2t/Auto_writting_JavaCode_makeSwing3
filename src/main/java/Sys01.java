@@ -38,12 +38,12 @@ public class Sys01 extends JFrame {
         setTitle("Control drive01");
         setVisible(true);
         setResizable(true);
-        jl.setFont(new Font("", Font.PLAIN,20));
-        jtf.setFont(new Font("", Font.PLAIN,20));
-        jl2.setFont(new Font("", Font.PLAIN,20));
-        jtf2.setFont(new Font("", Font.PLAIN,20));
-        jta.setFont(new Font("", Font.PLAIN,20));
-        jta2.setFont(new Font("", Font.PLAIN,20));
+        jl.setFont(new Font("", Font.PLAIN,15));
+        jtf.setFont(new Font("", Font.PLAIN,15));
+        jl2.setFont(new Font("", Font.PLAIN,15));
+        jtf2.setFont(new Font("", Font.PLAIN,15));
+        jta.setFont(new Font("", Font.PLAIN,15));
+        jta2.setFont(new Font("", Font.PLAIN,15));
         add(jp);
 
         jta.setText(" Let's safely using smartphones, etc.\n\n1. input\n\nNumber and possible, enter key.\n\n *Using programming, Spring boot(https://spring.io). Automation coding. \n2021-08-01. Writter, Hyeonil Choi.\n\nhttps://github.com/infott2t/Auto_writting_JavaCode_makeSwing,\n MIT License.\nThank you.\n \n How about this. Church. Jesus Christ. \nLet's go there. \nThank you, using on. ");
