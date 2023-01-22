@@ -3,9 +3,17 @@
 <h3>스마트 기기. 안전하게 사용합시다. 좋은 습관을 만들어요.</h3>
 <h3>Let's safely use smartphones, etc. Let's make good traditioning toself. Thank you.</h3>
 <br/><br/>
-<p>작업기간. 2022년 7월 29일 - ... 진행중 입니다.<p>
-    <br/>
 
+
+
+
+<p>작업기간. 2022년 7월 29일 - ... 미완성 종료, 2023년 1월 22일.<p>
+
+<p>자동화코드로 이어져서 개발을 하고 있기 때문에, 이 프로젝트를 더 개발하지 않아도 될거라고 생각하네요~.</p>
+<p>2023년 1월 22일, 자동화코드 관련해서... 현재는 여기에서 작업이 일어나고 있네요~~. 참조해보세요.</p>
+https://github.com/infott2t/SpringAutoCodeJPAEntity3
+    <br/><br/>
+<hr/>
 <p>
  이번 버젼에서는 파일로 출력을 만들었습니다. c:/category/ 라는 폴더를 생성해주세요. 거기에 파일이 출력되는 군요.
 </p>
